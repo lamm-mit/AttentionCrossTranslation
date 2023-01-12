@@ -11,7 +11,7 @@ E-mail: mbuehler@MIT.EDU
 
 Published in: Patterns, 2023
 
-![image](https://user-images.githubusercontent.com/101393859/212066094-9de67fd9-f2de-4dfa-b04d-4909f5fb2ee8.png)
+![image](https://user-images.githubusercontent.com/101393859/212066094-9de67fd9-f2de-4dfa-b04d-4909f5fb2ee8.png | width=100)
 
 #### Dataset: 
 https://www.dropbox.com/s/51v2texurkstwjv/Goldberg_extended_256.npy?dl=0
@@ -42,10 +42,10 @@ tqdm
 
 ### Translator  
 
-![image](https://user-images.githubusercontent.com/101393859/212066186-02d6230a-a0e0-4568-9a9b-edd4172c8a01.png)
+![image](https://user-images.githubusercontent.com/101393859/212066186-02d6230a-a0e0-4568-9a9b-edd4172c8a01.png | width=100)
 
 ### Discriminator
 
-![image](https://user-images.githubusercontent.com/101393859/212066285-b053d6dd-2d9c-4b0a-9bac-fdaa82f8eb13.png)
+![image](https://user-images.githubusercontent.com/101393859/212066285-b053d6dd-2d9c-4b0a-9bac-fdaa82f8eb13.png | width=100)
 
 
