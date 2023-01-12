@@ -1,5 +1,5 @@
 # AttentionCrossTranslation
-Unsupervised cross-domain translation via deep learning and adversarial attention neural networks and application to music-inspired protein designs
+## Unsupervised cross-domain translation via deep learning and adversarial attention neural networks and application to music-inspired protein designs
 
 Markus J. Buehler
 Massachusetts Institute of Technology, 77 Massachusetts Ave., Cambridge, MA 02139, USA
@@ -12,11 +12,11 @@ Massachusetts Institute of Technology, 77 Massachusetts Ave., Cambridge, MA 0213
 
 Published in: Patterns, 2023
 
-Dataset: 
+#### Dataset: 
 https://www.dropbox.com/s/51v2texurkstwjv/Goldberg_extended_256.npy?dl=0
 https://www.dropbox.com/s/xb3jfj43wy1po8k/Protein_extended_256.npy?dl=0 
 
-Weights:
+#### Weights:
 https://www.dropbox.com/s/6ipt5mmuc2ebjjs/V0.628_checkpoint_1010.zip?dl=0
 
 ## Getting Started
