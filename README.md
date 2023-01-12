@@ -15,3 +15,24 @@ Published in: Patterns, 2023
 Dataset: 
 https://www.dropbox.com/s/51v2texurkstwjv/Goldberg_extended_256.npy?dl=0
 https://www.dropbox.com/s/xb3jfj43wy1po8k/Protein_extended_256.npy?dl=0 
+
+Weights:
+https://www.dropbox.com/s/6ipt5mmuc2ebjjs/V0.628_checkpoint_1010.zip?dl=0
+
+## Getting Started
+
+1) Open AttentionCrossTranslation.ipynb
+2) Download dataset and/or model weights (links above and in notebook)
+3) Execute notebook
+
+## Required packages
+
+PyTorch 
+midiutil
+einops
+sklearn
+pandas
+numpy
+matplotlib
+scipy
+tqdm
